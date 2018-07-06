@@ -1,0 +1,86 @@
+/*public*/
+body{
+	padding-top: 71px;
+}
+
+/*nav*/
+.navbar-collapse .dropdown a{
+	cursor: pointer;
+}
+.navbar-nav .open .dropdown-menu{
+	text-align: center;
+}
+#out:hover{
+	color: red;
+}
+
+/*数据统计*/
+.table{
+	margin-top: 10px;
+}
+
+/*服务器状态*/
+.progress{
+	margin-bottom: 15px;
+}
+
+/*团队留言板*/
+.img-64{
+	width:64px;
+	height: 64px;
+}
+.margintop15{
+	margin-top: 15px;
+}
+#message ,list-group{
+	margin-bottom: 0;
+}
+#message .panel-body{
+	padding: 24px 15px;
+}
+
+/*footer*/
+footer{
+	padding: 10px 0;
+	font-size: 16px;
+}
+
+/*用户管理*/
+.page-header{
+	margin-top: 0;
+}
+#maizi-table .page-header{
+	border-color: #ddd;
+}
+
+/*用户搜索*/
+#user-search-form{
+	padding: 15px;
+	border: 1px solid #ddd;
+	border-top: none;
+}
+.cursor{
+	cursor: pointer;
+}
+
+/*内容管理*/
+tbody th a{
+	color: #333;
+}
+#content-table{
+	border: 1px solid #dddddd;
+	border-top: 0;
+	margin-top: 0;
+}
+
+/*添加内容*/
+#addcontent{
+	border: 1px solid #dddddd;
+	border-top: none;
+	padding: 15px;
+}
+
+/*标签管理*/
+#tag-alert .alert{
+	margin:15px 15px 15px 0;
+}
